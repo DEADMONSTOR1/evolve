@@ -10,7 +10,7 @@ evolve.ranks.guest.UserGroup = "guest"
 evolve.ranks.guest.Color = Color(127,127,127)
 evolve.ranks.guest.Immunity = 0
 evolve.ranks.guest.Privileges = {
-	"Noclip access", "The time", "Player names"
+	 "The time", "Player names"
 }
 
 evolve.ranks.respected = {}
