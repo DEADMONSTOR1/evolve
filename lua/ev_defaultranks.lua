@@ -20,7 +20,7 @@ evolve.ranks.respected.UserGroup = "guest"
 evolve.ranks.respected.Color = Color(0,255,0)
 evolve.ranks.respected.Immunity = 1
 evolve.ranks.respected.Privileges = {
-	"Noclip access", "The time", "Ratings visible", "Me", "Roll the Dice", "Private messages", "Player names", "Votekick"
+	"The time", "Ratings visible", "Me", "Roll the Dice", "Private messages", "Player names", "Votekick"
 }
 
 evolve.ranks.admin = {}
