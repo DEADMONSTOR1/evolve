@@ -23,6 +23,20 @@ evolve.ranks.respected.Privileges = {
 	"The time", "Ratings visible", "Me", "Roll the Dice", "Private messages", "Player names", "Votekick"
 }
 
+evolve.ranks.moderator = {}
+evolve.ranks.moderator.Title = "Moderator"
+evolve.ranks.moderator.Icon = "shield"
+evolve.ranks.moderator.UserGroup = "moderator"
+evolve.ranks.moderator.Color = Color(255,127,0)
+evolve.ranks.moderator.Immunity = 20
+evolve.ranks.moderator.Privileges = {
+	"Admin chat", "Achievement", "Public admin message", "Arm", "Armor", "Ban", "Blind", "Bring", "Map changing", "Gamemode changing", "Cleanup", "Convar changing", "Deaths", "Decal cleanup",
+	"Enter vehicle", "Exit vehicle", "Explode", "Extinguish", "Frags", "Freeze", "Gag", "Ghost", "Give weapon", "God", "Goto", "Health", "Ignite", "Imitate",
+	"Jail", "Kick", "Me", "Mute", "Noclip", "Noclip access", "No limits", "Notice", "Private messages", "Evade prop protection", "Ragdoll",
+	"Map reload", "Respawn", "Rocket", "Roll the Dice", "Slap", "Slay", "Spectate", "Speed", "Strip", "Teleport", "The time", "Unban", "Menu",
+	"Unlimited ammo", "Physgun players", "Ratings visible", "Player menu", "Player names", "Votekick", "Votekick no cooldown"
+}
+
 evolve.ranks.admin = {}
 evolve.ranks.admin.Title = "Admin"
 evolve.ranks.admin.Icon = "shield"
